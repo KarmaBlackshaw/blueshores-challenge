@@ -65,9 +65,6 @@ export default {}
 </script>
 
 <style lang="scss" scoped>
-.home-form {
-}
-
 .home-form-heading {
   display: flex;
   flex-direction: column;
